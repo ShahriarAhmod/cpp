@@ -46,3 +46,5 @@ int main() {
     }
     cout<<endl;
 }
+
+// bubble sort in c
