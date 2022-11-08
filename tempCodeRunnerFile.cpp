@@ -32,8 +32,8 @@ int main()
     }
 
     cout<<"Prime numbers: ";
-    for(auto u : v) {
-        cout<<u<<" ";
+    for(int i = 0 ; i<v.size();i++) {
+        cout<<v[i]<<" ";
     }
     cout<<endl;
     cout<<"Sum of prime numbers: "<<sum<<endl;
